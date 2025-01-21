@@ -1,0 +1,1 @@
+# autogen-design-pattern-samples
